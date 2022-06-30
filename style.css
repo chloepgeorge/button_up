@@ -1,7 +1,9 @@
 * {
     margin: 0px;
 }
-
+button {
+    display: block;
+}
 #search {
     font-weight: bold;
     color: lightseagreen;
